@@ -1,9 +1,9 @@
 ## Andre Ehrlich's Personal Page
 
-- 🔭 Working on Infectious Disease models with time-varying dynamics.
-- 🌱 Learning Diffusion Processes, Gaussian Processes, Epidemic Models. 
-- 👯 Let's collaborate on NLP, Time Series, and Statistical Machine Learning problems!
-- 📫 How to reach me: https://www.linkedin.com/in/andre-ehrlich-35942384/
+- 🌱 Currently building diffusion-driven epidemic models
+- 👯 Let's collaborate on Biostatistics, Logistics, NLP, Time Series, and Statistical Machine Learning problems
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/andre-ehrlich-35942384/)
+- 🎓 Educated in Computer Science & Statistics
 
 Some work recent work: 
 - Statistical Machine Learning for Precision Medicine
