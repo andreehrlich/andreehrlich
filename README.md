@@ -3,7 +3,7 @@
 - 🌱 Currently building diffusion-driven epidemic models
 - 👯 Let's collaborate on Biostatistics, Logistics, NLP, Time Series, and Statistical Machine Learning problems
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/andre-ehrlich-35942384/)
-- 🎓 Educated in Computer Science & Statistics
+- 🎓 Computer Science & Statistics
 
 Some work recent work: 
 - Statistical Machine Learning for Precision Medicine
