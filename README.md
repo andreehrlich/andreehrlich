@@ -11,6 +11,6 @@ Some work recent work:
     - [supplemental MSOWL code](https://github.com/andreehrlich/msowl) (Helper Functions + Explanatory Comments for MSOWL pkg)
 - Bayesian Epidemic Models 
     - [Bayesian Fixed Change Point Estimation](https://github.com/andreehrlich/epidemic_transmission_change_point) (small class prjct)
-    - (TBD) [Brazil Viral Load]([TBD](https://github.com/andreehrlich/brazil-viral-load)
-- (TBD) [Diffusion Processes](https://github.com/andreehrlich/neural-diffusion-processes) 
-- (TBD) [Gaussian Processes](https://github.com/andreehrlich/gaussian-processes)
+    - [Brazil Viral Load](https://github.com/andreehrlich/brazil-viral-load) (TBD)
+- [Diffusion Processes](https://github.com/andreehrlich/neural-diffusion-processes) (TBD)
+- [Gaussian Processes](https://github.com/andreehrlich/gaussian-processes) (TBD)
